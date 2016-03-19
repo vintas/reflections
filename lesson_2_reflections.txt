@@ -16,9 +16,12 @@ organized? How would branches help?
 	But knowing that I have to merge the changes later does make me question my first thought. 
 
 How do the diagrams help you visualize the branch structure?
+	The diagrams from Git don't seem to look as good.
+	The fact that commits may get forgotten seems like a bad idea. These aren't shown in the diagram.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	Merging feels dodgy. My ship colour turned to yellow too.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
