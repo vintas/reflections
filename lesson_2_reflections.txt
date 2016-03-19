@@ -22,6 +22,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 	Merging feels dodgy. My ship colour turned to yellow too.
+	OK. The ship turning yellow was my fault. I fixed it in the next commit.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+	The good boy in me says to have manual merge all the time but I can see how that will be impractially time-consuming and headache inducing.
