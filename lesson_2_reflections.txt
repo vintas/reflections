@@ -1,6 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
     It creates the .git folder whiich identifies that the directory is  repository and also allocates the space where revision history is stored.
-    hgb
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
