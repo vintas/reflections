@@ -28,4 +28,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    One would use branches when we have an experimental feature that one wishes to add.
+    We would be able to boldly try out our ideas without any fear of breaking the main code or having to revert back to an old version if it doesn't work out.
+    The benifit is to make sure that the master branch is always stable.
