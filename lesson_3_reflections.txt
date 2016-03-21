@@ -23,7 +23,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    We might just make copies and e-mail them back and forth. Using Git is  easier as merging changes is automated rather than the manual merging in E-mails transfer.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
